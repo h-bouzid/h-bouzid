@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hamza Bouzid</h1> <h3 align="center">Postdoctoral researcher in Computer Vision </h3> <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/150de2_3c3331e019484bd7a792d20ba98070f2~mv2.gif">
+
 🔭 I’m currently working on Face Presentation Attack Detection (anti-spoofing): multimodal RGB + Depth + IR fusion and generalization across sensors
 
 🎓 PhD in Computer Science (Mohammed V University, Rabat, 2024) on generative models for dynamic facial expressions: GANs, diffusion models, 3D/4D faces
